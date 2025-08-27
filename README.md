@@ -2,7 +2,7 @@
 
 I'm a software engineer with 5+ years building scalable web applications. I specialize in JavaScript/TypeScript and Ruby on Rails, creating everything from user interfaces to robust backend architectures.
 
-- 🔭 I'm currently working on AI-powered job matching platforms at **[HeyJobs](http://github.com/heyjobs)**
+- 🔭 I'm currently working on an AI-powered job matching and screening service at **[HeyJobs](http://github.com/heyjobs)**
 - 🌱 I'm currently learning advanced system architecture and performance optimization
 - 👯 I'm looking to collaborate on open source projects and scalable web applications
 - 💬 Ask me about JavaScript/TypeScript, React, Node.js, Ruby on Rails
